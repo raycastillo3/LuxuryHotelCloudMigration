@@ -21,5 +21,5 @@
 <img width="1081" alt="Screen Shot 2023-04-14 at 8 29 56 PM" src="https://github.com/raycastillo3/LuxuryHotelCloudMigration/assets/60750068/d1c4e641-b11f-467b-8c2b-db39f20362ab">
 
 -Certificate: 
-[Raymond Castillo - 2023-05-24.pdf] <img https://github.com/raycastillo3/LuxuryHotelCloudMigration/files/11858410/Raymond.Castillo.-.2023-05-24.pdf>
+[Raymond Castillo - 2023-05-24.pdf] <img  width="1081" alt="multicloud certificate" src="https://github.com/raycastillo3/LuxuryHotelCloudMigration/files/11858410/Raymond.Castillo.-.2023-05-24.pdf">
 
